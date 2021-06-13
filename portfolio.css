@@ -1,0 +1,41 @@
+#main{
+    background-image: url(hand-painted-watercolor-background-with-sky-clouds-shape.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+#head{
+    padding-top: 40px;
+    text-align: center;
+    color:rgb(128, 52, 52);
+}
+#me{
+    width: 310px;
+    height: 430px;
+    padding-left: 30px;
+    padding-top: 30px;
+    
+}
+.text{
+    text-shadow: 10px;
+    font-size: 34px;
+    padding-top: 100px;    
+    font-style: oblique;
+    color: rgb(184, 104, 104);
+    text-align: center;
+}
+.tag{
+    color: brown;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 50px;
+}
+.para{
+    color: rgb(105, 102, 102);
+    font-size: 20px;
+    padding-top: 10px;
+    font-weight: bold;
+
+}
+
